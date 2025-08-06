@@ -1,0 +1,14 @@
+what is cookie?
+
+what is app.use(express.json); ?
+
+how jwt works?
+
+what is cookie
+res.cookie
+
+what are apis
+
+what smtp
+
+// 100000 * Math.random() * 900000
